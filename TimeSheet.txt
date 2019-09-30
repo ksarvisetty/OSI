@@ -1,0 +1,40 @@
+16-Jul-2018
+
+2 hours - Verified the item failures from EBS PROD to OSC PROD. Provided the details to Jose. 
+
+SWINERTON-SR-000427
+
+3 hour - Reprocessed failed Certify Batch and provided the details to Gobi. 
+         Joined a call with Gobi; Paula for the failed Ceritfy Vouchers. 
+		 Included the conditions provided by Gobi to COA query. Modified COA Composite. 
+		 Deployed to QA 12c; Unit tested and promoted the same composite to production. 
+		 
+3 hour - Looked into the issue reported by Sue on the PO shipment notification and added a fix on the Boomi process. 
+
+17-Jul-2018
+
+1 hour Rambus: Joined a call with Srikanth to understand the customer hierarchy in Oracle. 
+
+SWINERTON-SR-000390 
+
+Joined a call with Gretchen to discuss about the Approval Status. 
+
+18-Jul-2018
+
+
+3 hours - Automated the 810 outbound process.  
+
+19-Jul-2018
+
+
+
+Added 	 
+
+20-Jul-2018
+
+1 hour Joined a call with Hruthayah for the ReadTimeout configuration changes in QA server. 
+
+SWINERTON-SR-000427
+
+4 hours: Joined a call with Gobi to go through each certify voucher failure. 
+Also processed few batches after updating the job/phase/category values. 
